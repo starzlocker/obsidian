@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "224650c5cb9ca1ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "08f1e3c533d26822",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12d3fe716bebed06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "--TOPICS--/Compilação em C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dcc323f3a7f24c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "--TOPICS--/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e11797d67299c430",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a6c7480d48d0ff4e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "426bc7ac72c557a0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6f4e760a0af52f2b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3aa4d025b4494ec8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d2bcfcc686c72d03",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7c901e69d2c8afc3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "--TOPICS--/Python.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fc7f4066a149cacd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "--TOPICS--/Python.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dc2e11fbb0432865",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "--TOPICS--/Python.md"
+          }
+        }
+      },
+      {
+        "id": "1648b78b38f06045",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "2dcc323f3a7f24c3",
+  "lastOpenFiles": [
+    "--SUBJECTS--/Sumário.md",
+    "--TOPICS--/Compilação em C.md",
+    "--SUBJECTS--/Builders/Builders.md",
+    "--SUBJECTS--/Computer Architecture/Computer Architecture.md",
+    "--TOPICS--/RISC-V Instructions.md",
+    "--TOPICS--/Conjunto de Instruções.md",
+    "--TOPICS--/Registradores.md",
+    "--TOPICS--/RISC-V Procedures.md",
+    "--TOPICS--/RISC-V Recursion.md",
+    "--TOPICS--/Spilling Registers.md",
+    "--TOPICS--/RISC-V Registers.md",
+    "--SUBJECTS--/Computer Architecture/RISC-V.md",
+    "--TOPICS--/RISC.md",
+    "--TOPICS--/Ponteiros.md",
+    "Dynamic Linked Libraries.jpg",
+    "Dynamic Linked Libraries 1.png",
+    "Dynamic Linked Libraries.png",
+    "--TOPICS--/Untitled.md",
+    "Untitled",
+    "--TOPICS--/MIPS.md",
+    "--SUBJECTS--/Builders",
+    "--MODELO--/Model - riscv.md",
+    "Pasted image 20240801120406.png",
+    "--TOPICS--/Teste.md"
+  ]
+}
